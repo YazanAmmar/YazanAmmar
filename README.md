@@ -1,4 +1,4 @@
-<img src="./MyProfile" alt="YazanAmmar"><!-- If you want the template for my gif, email me! -->
+<img src="./MyProfile.gif" alt="YazanAmmar"><!-- If you want the template for my gif, email me! -->
 
 ### Languages
 
