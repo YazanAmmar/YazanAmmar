@@ -63,7 +63,7 @@
     </tr>
     <tr>
       <td style="width: 60px; padding: 15px 10px; text-align: center;">
-        <img src="assets/palette.svg" alt="Palette Icon" width="40" height="40">
+        <img src="https://github.com/YazanAmmar/obsidian-color-master/blob/main/Images/color-master-2560x640.png" alt="Palette Icon" width="150" height="90">
       </td>
       <td style="padding: 15px 10px; vertical-align: middle;">
         <strong style="font-size: 1.2em; color: #c9d1d9;">Color Master</strong>
