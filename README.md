@@ -80,3 +80,7 @@
   </tbody>
 </table>
 </div>
+
+---
+
+![Metrics](https://github.com/YazanAmmar/YazanAmmar/blob/main/github-metrics.svg)
