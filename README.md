@@ -72,7 +72,7 @@
         <span style="color: #8b949e;">An Obsidian plugin that gives you full control over your workspace's UI colors and design.</span>
       </td>
       <td style="width: 120px; padding: 15px 10px; text-align: right;">
-        <a href="https://github.com/YazanAmmar/Color-Master" title="Explore Project" style="text-decoration: none; padding: 8px 12px; background-color: #d29922; color: white; border-radius: 6px; font-size: 0.9em; font-weight: bold;">
+        <a href="https://github.com/YazanAmmar/obsidian-color-master" title="Explore Project" style="text-decoration: none; padding: 8px 12px; background-color: #d29922; color: white; border-radius: 6px; font-size: 0.9em; font-weight: bold;">
           Details
         </a>
       </td>
